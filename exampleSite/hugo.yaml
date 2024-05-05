@@ -2,9 +2,8 @@ baseurl: https://abhinavpatel00.github.io/COCO-blog/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
-title: Example Site
-copyright: Example Person
-
+title: COCO
+copyright: COCO
 # Theme i18n support
 # Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
 DefaultContentLanguage: en
@@ -211,13 +210,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/Abhinavpatel00
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/Veganabhinav
           params:
               icon: brand-twitter
 
